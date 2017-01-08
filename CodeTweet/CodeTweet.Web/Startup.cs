@@ -6,7 +6,9 @@ namespace CodeTweet.Web
     {
         public void Configuration(IAppBuilder app)
         {
+            //something new!
             ConfigureAuth(app);
+            //aaaa
         }
     }
 }
